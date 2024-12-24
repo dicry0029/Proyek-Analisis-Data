@@ -12,5 +12,6 @@ pip install -r requirements.txt
 ```
 
 ## Streamlit
-run streamlit
-```streamlit run Dashboard.py```
+```
+cd proyek_analisis_data
+streamlit run Dashboard.py```
