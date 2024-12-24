@@ -1,5 +1,5 @@
 # Proyek-Analisis-Data
-<img src="streamlit.png" alt="drawing" width="200"/>
+<img src="streamlit.png" alt="drawing" width="400"/>
 
 ## Description
 This project is a data analysis and visualization project focused on Air Quality data. It includes code for data wrangling, exploratory data analysis (EDA), and a Streamlit dashboard. This project aims to analyze data on the Air Quality Dataset.
